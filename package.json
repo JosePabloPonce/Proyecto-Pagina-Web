@@ -1,0 +1,42 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "serve": "webpack serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-react": "^7.13.13",
+    "@linaria/babel-preset": "^3.0.0-beta.2",
+    "@linaria/core": "^3.0.0-beta.2",
+    "@linaria/react": "^3.0.0-beta.2",
+    "@linaria/shaker": "^3.0.0-beta.2",
+    "babel-loader": "^8.2.2",
+    "eslint-loader": "^4.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "file-loader": "^6.1.1",
+    "html-webpack-plugin": "^5.3.1",
+    "html-webpack-root-plugin": "^0.10.0",
+    "postcss": "^8.2.10",
+    "postcss-loader": "^5.2.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
