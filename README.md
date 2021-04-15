@@ -11,8 +11,15 @@ Eslint para poder chequear errores en codigo de sintaxis,
 File-Loader para poder importar imagenes a la pagina web,
 Html-Webpack-Plugin para generar un template del HTML
 
-Link de ejemplo:
+Interacciones Implementadas: 
+Al cambiar las imagenes iniciales de la pagina con las flechas,
+Al poner el mouse sobre los Learn More cambian de color
+
+Link subido en servidor:
 http://ubeje.xyz/19092/proyecto1_19092/dist/
+
+Pagina Original: 
+https://www.crunchyroll.com/games/index.html
 
 Instalacion:
 Utilizar el comando "npm install" para intalar todas las dependencias
