@@ -26,7 +26,9 @@ Utilizar el comando "npm install" para intalar todas las dependencias
 Utilizar el comando "npm run build" para hacer el build en el package.json
 
 Uso: 
+Utilizar el comando "npm run lint" para chequar que los archivos no tengan errores de linting
 Utilizar el comando "npm run serve" para que la pagina pueda correr en un servidor local
+
 
 Creditos: 
 Jose Pablo Ponce Pivaral
